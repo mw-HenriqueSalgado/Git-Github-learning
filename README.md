@@ -2,6 +2,9 @@
 
 Some description!
 
-##s Subheader
+## Subheader
 
 Watch tutorial on YT
+
+# In case of emergency
+git remote set-url origin "repo name"
